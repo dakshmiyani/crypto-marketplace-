@@ -45,8 +45,8 @@ A stunning, modern landing page for **Dreams Market** - a revolutionary trading 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/animated-landing-page-dreams-market.git
-cd animated-landing-page-dreams-market
+git clone https://github.com/dakshmiyani/crypto-marketplace-.git
+cd crypto-marketplace
 ```
 
 2. Install dependencies
@@ -166,19 +166,7 @@ Email collection form for early access signups with smooth animations and succes
 - `npm run preview` - Preview production build
 - `npm run lint` - Run ESLint
 
-## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is private and proprietary.
-
-## 👨‍💻 Author
-
-**Allan** - Senior Fullstack Developer
-
-Built with passion and attention to detail, showcasing modern web development best practices and cutting-edge technologies.
 
 ---
 
