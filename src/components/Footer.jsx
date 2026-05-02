@@ -11,7 +11,7 @@ const Footer = () => {
             <hr />
 
             <div className="links">
-                <p>Copyright © 2025 Dreams Market. All rights reserved.</p>
+                <p>Copyright © 2026 Dreams Market. All rights reserved.</p>
 
                 <ul>
                     {footerLinks.map(({label, link }) => (
